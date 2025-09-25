@@ -1,4 +1,4 @@
-##Social Media Post Generator 🚀
+# Social Media Post Generator 🚀
 
 Overview
 This is a Python-based social media post generator that uses the Gemini API to create dynamic and engaging content. The application takes keywords and text as input and generates a complete social media package, including:
@@ -11,7 +11,7 @@ Appropriate emojis to add personality.
 
 This project demonstrates skills in natural language processing, API integration, and building a user-friendly command-line application.
 
-Prerequisites
+## Prerequisites
 To run this project, you need to have Python installed on your system. The project also relies on several Python libraries and requires an API key for the Gemini API.
 
 Python 3.9+
